@@ -7,13 +7,13 @@
 打开 Mac 终端，粘贴运行：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/guoyingjun123456-lgtm/MAC-claudecc/main/install-claude-code.sh | bash
+curl -fsSL https://gitee.com/zth_zh/mac-claudecc/raw/main/install-claude-code.sh | bash
 ```
 
 或者下载后运行：
 
 ```bash
-curl -fsSL -o install.sh https://raw.githubusercontent.com/guoyingjun123456-lgtm/MAC-claudecc/main/install-claude-code.sh
+curl -fsSL -o install.sh https://gitee.com/zth_zh/mac-claudecc/raw/main/install-claude-code.sh
 bash install.sh
 ```
 
